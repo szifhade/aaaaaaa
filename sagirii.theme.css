@@ -1,0 +1,54 @@
+/**
+ * @name Sagirii
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/mO6bGCW.jpg');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://cdn.discordapp.com/attachments/589108025139265566/1106013435931656252/069ce26d80bc6785fcbc747821ed3108.jpg');
+  --popout-image-blur: 0px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://cdn.discordapp.com/attachments/589108025139265566/1106013435931656252/069ce26d80bc6785fcbc747821ed3108.jpg');
+  --overlay-image-blur: 1px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://cdn.discordapp.com/attachments/589108025139265566/1106013924475809862/a3ac14b5275d7621718b0b8147f270d0.jpg');
+  --home-button-size: contain;
+  --home-button-position: center;
+  --serverlist-brightness: 0;
+  --left-brightness: 0;
+  --middle-brightness: 0;
+  --right-brightness: 0;
+  --overlay-brightness: 0.45;
+  --gradient-primary: 103,58,183;
+  --gradient-secondary: 65,20,94;
+  --link-colour: #673AB7;
+  --scrollbar-colour: rgb(81,34,112,0.41);
+  --gradient-direction: 164deg;
+  --tint-colour: 103,58,183;
+  --tint-brightness: 0.14;
+  --font: gg sans;
+  --window-padding: 25px;
+  --window-roundness: 20px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
